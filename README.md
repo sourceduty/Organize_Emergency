@@ -2,6 +2,7 @@
 
 ⛑️ Prioritize emergency first aid items and equipment.
 
+***
 ### CONCEPT
 
 Organize emergency first aid kits and equipment with priority where the most used items can be accessed first. Common pills, creams and bandages are first. Common items are supported by larger bandages, specialized creams and surgical tools.
@@ -9,6 +10,7 @@ Organize emergency first aid kits and equipment with priority where the most use
 > [!IMPORTANT]
 > This concept should be a standard for international emergency kit organization.
 
+***
 ### RED CROSS
 
 The [Red Cross](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html) recommends that all first aid kits for a family of four include the following:
@@ -33,6 +35,7 @@ Oral thermometer (non-mercury/nonglass)
 Tweezers
 Emergency First Aid instructions
 
+#
 ### COPYRIGHT
 
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
